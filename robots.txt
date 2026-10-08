@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pramodh-natarajan.vercel.app/sitemap.xml
